@@ -1,0 +1,83 @@
+nav h1 {
+  width: 40%;
+  float: left;
+}
+
+nav ul {
+  width: 40%;
+  float: right;
+}
+
+li {
+  display: inline-block;
+}
+
+/*TEXT ALIGN, select parent element*/
+header {
+  text-align: center;
+}
+
+body { background-color:#
+
+
+/*.card1 {*/
+/*  display: inline-block;*/
+/*  width: 30%;*/
+/*  background: blue;*/
+/*  vertical-align:top;*/
+/*}*/
+
+/*.card2 { */
+/*  display: inline-block;*/
+/*  width: 30%;*/
+/*  background: magenta;*/
+/*  vertical-align:top;*/
+/*}*/
+
+/*.card3 {*/
+/*  display: inline-block;*/
+/*  width: 30%;*/
+/*  background: yellow;*/
+/*  vertical-align:top;*/
+/*}*/
+
+/*.card4 {*/
+/*  display: inline-block;*/
+/*  width: 30%;*/
+/*  background: purple;*/
+/*  vertical-align:top;*/
+/*}*/
+/*.cookie-cards img {*/
+/*  width: 100%;*/
+/*}*/
+
+/*.cookie-cards {*/
+/*  text-align: center;*/
+/*}*/
+
+/*footer {*/
+/*  background-color: lime;*/
+/*}*/
+
+
+
+/*footer ul {*/
+/*  margin: 0 auto;*/
+/*  width: 50%;*/
+/*}*/
+
+
+/*https://css-tricks.com/snippets/css/clear-fix/*/
+/*.clearfix:after {*/
+/*     visibility: hidden;*/
+/*     display: block;*/
+/*     font-size: 0;*/
+/*     content: " ";*/
+/*     clear: both;*/
+/*     height: 0;*/
+/*     }*/
+/*.clearfix { display: inline-block; }*/
+/* start commented backslash hack \*/
+/** html .clearfix { height: 1%; }*/
+/*.clearfix { display: block; }*/
+/* close commented backslash hack 
